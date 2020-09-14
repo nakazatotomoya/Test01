@@ -1,11 +1,12 @@
 package main02;
 
+//サーバ
 public class Main02 {
 
 	public String getColor(int i) {
 
         if (i == 1) {
-            return "kuro";
+            return "赤";
         } else if (i == 2) {
             return "青";
 
